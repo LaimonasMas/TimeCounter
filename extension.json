@@ -1,8 +1,8 @@
 {
-    "module": "{@name}",
-    "name": "{@nameLabel}",
-    "description": "{@description}",
-    "author": "{@author}",
+    "module": "TimeCounter",
+    "name": "TimeCounter",
+    "description": "It counts when Task is started/finished ans when break is started/finished.",
+    "author": "Laimonas",
     "acceptableVersions": [
         ">=5.9.0"
     ],
